@@ -1,4 +1,4 @@
-#Fire Detection
+# Fire Detection
 
 The fire detection model is a Python-based solution that uses deep learning, image processing, and machine learning techniques to accurately classify images into two categories: fire and non-fire. This model is built using popular libraries such as Keras, OpenCV (cv2), and scikit-learn, making it a powerful tool for fire detection in images.
 
